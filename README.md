@@ -1,21 +1,21 @@
-📊 Market Trends Chatbot (Streamlit + Gemini API)
+>>Market Trends Chatbot (Streamlit + Gemini API)
 
 An interactive chatbot built with Streamlit and Google Gemini API that provides insights on market trends using a custom context file.
 This project demonstrates how to integrate LLMs with business-specific knowledge for context-aware Q&A.
 
-✨ Features
+>>Features
 
-✅ Loads context data from market_context.txt
+  Loads context data from market_context.txt
 
-✅ Simple Streamlit UI for asking questions
+  Simple Streamlit UI for asking questions
 
-✅ Uses Google Gemini-2.5-Flash for fast and professional answers
+  Uses Google Gemini-2.5-Flash for fast and professional answers
 
-✅ Customizable context → just update market_context.txt
+  Customizable context → just update market_context.txt
 
-✅ Error handling for missing files & invalid inputs
+  Error handling for missing files & invalid inputs
 
-🚀 Installation & Setup
+    >>Installation & Setup
 
 Clone this repository
 
@@ -55,7 +55,7 @@ export GEMINI_API_KEY="your_api_key"
 Add your context file
 Create a file named market_context.txt with background info, reports, or data about market trends.
 
-▶️ Usage
+▶ Usage
 
 Run the Streamlit app:
 
